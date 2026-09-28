@@ -1,6 +1,7 @@
 # LEGO San Rafael
 
 Created using BrickLink Studio. San Rafael was built in 1968 by Charles Luckman Associates and is currently a dormitory owned and used by the University of California Santa Barbara.
+Includes full interior with accurate room types and layouts. 
 
 ## Live Dashboard
 
