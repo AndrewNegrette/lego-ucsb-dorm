@@ -1,0 +1,112 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+14719,6058329,14719.dat,Tile 2 x 2 Corner,1,15,White,Solid Colors,2,0.43
+14719,6065824,14719.dat,Tile 2 x 2 Corner,86,71,Light Bluish Gray,Solid Colors,3,0.43
+14719,6341393,14719.dat,Tile 2 x 2 Corner,68,484,Dark Orange,Solid Colors,2,
+14719,6247784,14719.dat,Tile 2 x 2 Corner,85,72,Dark Bluish Gray,Solid Colors,12,0.43
+14719,6374049,14719.dat,Tile 2 x 2 Corner,6,2,Green,Solid Colors,7,
+22484,6509664,22484.dat,Bar   1L with Tow Ball,11,0,Black,Solid Colors,1,
+2357,235701,2357.dat,Brick 2 x 2 Corner,1,15,White,Solid Colors,3,1.25
+23969,6403832,23969.dat,Panel 1 x 2 x 1 with Rounded Corners and 2 Sides,68,484,Dark Orange,Solid Colors,1,
+23969,6275131,23969.dat,Panel 1 x 2 x 1 with Rounded Corners and 2 Sides,85,72,Dark Bluish Gray,Solid Colors,30,
+23969,6248492,23969.dat,Panel 1 x 2 x 1 with Rounded Corners and 2 Sides,86,71,Light Bluish Gray,Solid Colors,1,0.65
+23969,6248490,23969.dat,Panel 1 x 2 x 1 with Rounded Corners and 2 Sides,1,15,White,Solid Colors,46,0.65
+2420,242001,2420.dat,Plate 2 x 2 Corner,1,15,White,Solid Colors,32,0.54
+2431,243101,2431.dat,Tile 1 x 4,1,15,White,Solid Colors,2,0.54
+2431,4211356,2431.dat,Tile 1 x 4,86,71,Light Bluish Gray,Solid Colors,1,0.54
+2454,6075621,2454.dat,Brick 1 x 2 x 5,48,378,Sand Green,Solid Colors,2,3.49
+24866,6295242,24866.dat,"Plate, Round 1 x 1 with Flower Edge (5 Petals) ",220,353,Coral,Solid Colors,2,
+24866,6446790,24866.dat,"Plate, Round 1 x 1 with Flower Edge (5 Petals) ",80,288,Dark Green,Solid Colors,19,
+3003,6075624,3003.dat,Brick 2 x 2,48,378,Sand Green,Solid Colors,13,1.35
+3004,4256587,3004.dat,Brick 1 x 2,12,47,Trans-Clear,Transparent Colors,7,0.8
+3004,4211088,3004.dat,Brick 1 x 2,85,72,Dark Bluish Gray,Solid Colors,1,0.8
+3004,300401,3004.dat,Brick 1 x 2,1,15,White,Solid Colors,78,0.8
+3004,4616581,3004.dat,Brick 1 x 2,48,378,Sand Green,Solid Colors,30,0.8
+3005,4521948,3005.dat,Brick 1 x 1,48,378,Sand Green,Solid Colors,1,0.44
+3005,300501,3005.dat,Brick 1 x 1,1,15,White,Solid Colors,124,0.44
+3005,4113915,3005.dat,Brick 1 x 1,2,19,Tan,Solid Colors,4,0.44
+3005,6220959,3005.dat,Brick 1 x 1,12,47,Trans-Clear,Transparent Colors,20,0.44
+3008,300801,3008.dat,Brick 1 x 8,1,15,White,Solid Colors,2,3.21
+3010,301001,3010.dat,Brick 1 x 4,1,15,White,Solid Colors,12,1.64
+3010,4521947,3010.dat,Brick 1 x 4,48,378,Sand Green,Solid Colors,12,1.64
+30176,6270003,30176.dat,"Plant Brick, Round 1 x 1 with 3 Bamboo Leaves ",6,2,Green,Solid Colors,4,0.44
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,10,1.2
+3020,4667595,3020.dat,Plate 2 x 4,63,272,Dark Blue,Solid Colors,2,1.2
+3021,302101,3021.dat,Plate 2 x 3,1,15,White,Solid Colors,30,0.93
+3021,6184348,3021.dat,Plate 2 x 3,48,378,Sand Green,Solid Colors,12,0.93
+3022,302201,3022.dat,Plate 2 x 2,1,15,White,Solid Colors,17,0.64
+3022,6186823,3022.dat,Plate 2 x 2,48,378,Sand Green,Solid Colors,2,0.64
+3023old,,3023a.dat,Plate 1 x 2 with Flat Bottom Pin,1,15,White,Solid Colors,40,0.4
+3023,302301,3023b.dat,Plate 1 x 2,1,15,White,Solid Colors,101,0.36
+3023,302324,3023b.dat,Plate 1 x 2,3,14,Yellow,Solid Colors,18,0.36
+3023,4655080,3023b.dat,Plate 1 x 2,48,378,Sand Green,Solid Colors,27,0.36
+3023,6514001,3023b.dat,Plate 1 x 2,12,47,Trans-Clear,Transparent Colors,12,0.36
+3024,4210719,3024.dat,Plate 1 x 1,85,72,Dark Bluish Gray,Solid Colors,13,0.2
+3024,4179826,3024.dat,Plate 1 x 1,42,73,Medium Blue,Solid Colors,1,0.2
+3024,4549436,3024.dat,Plate 1 x 1,69,28,Dark Tan,Solid Colors,1,0.2
+3024,302428,3024.dat,Plate 1 x 1,6,2,Green,Solid Colors,2,0.2
+3024,302401,3024.dat,Plate 1 x 1,1,15,White,Solid Colors,68,0.2
+3024,6513962,3024.dat,Plate 1 x 1,12,47,Trans-Clear,Transparent Colors,142,0.2
+3024,302424,3024.dat,Plate 1 x 1,3,14,Yellow,Solid Colors,130,0.2
+3024,4184108,3024.dat,Plate 1 x 1,63,272,Dark Blue,Solid Colors,112,0.2
+3032,6258105,3032.dat,Plate 4 x 6,220,353,Coral,Solid Colors,1,
+3034,303401,3034.dat,Plate 2 x 8,1,15,White,Solid Colors,12,2.27
+3034,4211406,3034.dat,Plate 2 x 8,86,71,Light Bluish Gray,Solid Colors,1,2.27
+3034,6027627,3034.dat,Plate 2 x 8,63,272,Dark Blue,Solid Colors,1,2.27
+3068,4528357,3068b.dat,Tile 2 x 2,42,73,Medium Blue,Solid Colors,1,0.48
+3069a,,3069a.dat,Tile 1 x 2 without Groove,1,15,White,Solid Colors,1,0.28
+3069,306901,3069b.dat,Tile 1 x 2,1,15,White,Solid Colors,7,0.26
+3069,4616578,3069b.dat,Tile 1 x 2,48,378,Sand Green,Solid Colors,1,0.26
+3069,4211052,3069b.dat,Tile 1 x 2,85,72,Dark Bluish Gray,Solid Colors,24,0.26
+3069,306928,3069b.dat,Tile 1 x 2,6,2,Green,Solid Colors,3,0.26
+3069,4211414,3069b.dat,Tile 1 x 2,86,71,Light Bluish Gray,Solid Colors,2,0.26
+3070,307001,3070b.dat,Tile 1 x 1,1,15,White,Solid Colors,8,0.16
+3070,4125253,3070b.dat,Tile 1 x 1,2,19,Tan,Solid Colors,8,0.16
+3070,6143431,3070b.dat,Tile 1 x 1,68,484,Dark Orange,Solid Colors,2,0.16
+3070,6275876,3070b.dat,Tile 1 x 1,220,353,Coral,Solid Colors,23,
+3070,4558593,3070b.dat,Tile 1 x 1,6,2,Green,Solid Colors,1,0.16
+3070,4631385,3070b.dat,Tile 1 x 1,63,272,Dark Blue,Solid Colors,4,0.16
+3245b,4621902,3245b.dat,Brick 1 x 2 x 2 with Inside Axle Holder,42,73,Medium Blue,Solid Colors,12,1.47
+33291,6170576,33291.dat,"Plate, Round 1 x 1 with Flower Edge (4 Knobs / Petals) ",6,2,Green,Solid Colors,1,0.11
+3460,346001,3460.dat,Plate 1 x 8,1,15,White,Solid Colors,25,1.36
+3622,362201,3622.dat,Brick 1 x 3,1,15,White,Solid Colors,1,1.24
+3623,362301,3623.dat,Plate 1 x 3,1,15,White,Solid Colors,15,
+3666,366601,3666.dat,Plate 1 x 6,1,15,White,Solid Colors,14,1.06
+3666,4508313,3666.dat,Plate 1 x 6,63,272,Dark Blue,Solid Colors,1,1.06
+3710,371001,3710.dat,Plate 1 x 4,1,15,White,Solid Colors,25,0.71
+3794b,6051511,3794b.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper) ",1,15,White,Solid Colors,1,0.3
+3794b,6066097,3794b.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper) ",86,71,Light Bluish Gray,Solid Colors,1,0.3
+3795,6097420,3795.dat,Plate 2 x 6,63,272,Dark Blue,Solid Colors,2,1.74
+3795,379501,3795.dat,Plate 2 x 6,1,15,White,Solid Colors,1,1.74
+3832,383201,3832.dat,Plate 2 x 10,1,15,White,Solid Colors,4,2.91
+3958,4144012,3958.dat,Plate 6 x 6,1,15,White,Solid Colors,1,4.71
+4162,416201,4162.dat,Tile 1 x 8,1,15,White,Solid Colors,2,1.06
+4282,4211486,4282.dat,Plate 2 x 16,86,71,Light Bluish Gray,Solid Colors,1,4.5
+4477,4251149,4477.dat,Plate 1 x 10,86,71,Light Bluish Gray,Solid Colors,1,1.61
+4477,447701,4477.dat,Plate 1 x 10,1,15,White,Solid Colors,1,1.61
+4865,6146225,4865a.dat,Panel 1 x 2 x 1,85,72,Dark Bluish Gray,Solid Colors,2,0.46
+54200,6040126,54200.dat,Slope 30 1 x 1 x 2/3,69,28,Dark Tan,Solid Colors,1,0.21
+54200,4565363,54200.dat,Slope 30 1 x 1 x 2/3,42,73,Medium Blue,Solid Colors,1,0.21
+60479,4514842,60479.dat,Plate 1 x 12,1,15,White,Solid Colors,2,1.95
+6231,623101,6231.dat,Panel 1 x 1 x 1 Corner,1,15,White,Solid Colors,4,0.3
+6231,6025235,6231.dat,Panel 1 x 1 x 1 Corner,85,72,Dark Bluish Gray,Solid Colors,2,0.3
+6231,6247781,6231.dat,Panel 1 x 1 x 1 Corner,63,272,Dark Blue,Solid Colors,50,0.3
+63864,4558168,63864.dat,Tile 1 x 3,1,15,White,Solid Colors,3,0.39
+63864,4558169,63864.dat,Tile 1 x 3,86,71,Light Bluish Gray,Solid Colors,1,0.39
+63864,6023083,63864.dat,Tile 1 x 3,6,2,Green,Solid Colors,1,0.39
+6636,6359696,6636.dat,Tile 1 x 6,68,484,Dark Orange,Solid Colors,1,
+6636,663601,6636.dat,Tile 1 x 6,1,15,White,Solid Colors,2,0.83
+78329,6350399,78329.dat,Plate 1 x 5,1,15,White,Solid Colors,12,
+79491,6456637,79491.dat,"Plate, Round Corner 2 x 2 with 1 x 1 Cutout ",69,28,Dark Tan,Solid Colors,1,
+85861,6338221,85861.dat,"Plate, Round 1 x 1 with Open Stud ",6,2,Green,Solid Colors,5,
+85861,6300322,85861.dat,"Plate, Round 1 x 1 with Open Stud ",69,28,Dark Tan,Solid Colors,24,
+85861,6231765,85861.dat,"Plate, Round 1 x 1 with Open Stud ",85,72,Dark Bluish Gray,Solid Colors,1,0.1
+85861,6510164,85861.dat,"Plate, Round 1 x 1 with Open Stud ",12,47,Trans-Clear,Transparent Colors,2,
+87580,6287638,87580.dat,"Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper) ",220,353,Coral,Solid Colors,1,
+87994,6428805,87994.dat,Bar   3L (Bar Arrow),88,70,Reddish Brown,Solid Colors,4,
+87994,6093525,87994.dat,Bar   3L (Bar Arrow),11,0,Black,Solid Colors,1,0.2
+92438,4598522,92438.dat,Plate 8 x 16,86,71,Light Bluish Gray,Solid Colors,2,17
+92593,4597131,92593.dat,"Plate, Modified 1 x 4 with 2 Studs without Groove ",1,15,White,Solid Colors,9,0.61
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+1555,753.1702 +a
+,,,,,,,,
